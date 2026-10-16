@@ -67,8 +67,8 @@ Experience Highlights
 - Data Analytics Intern — TechnGlobal Private Limited: Worked with SQL and Python to clean and transform data, analyze business performance, and develop Power BI KPI dashboards.
 - Power BI Developer Intern — Shreeji Softinfo Consultancy LLP: Built interactive dashboards, developed DAX measures, and supported reporting and visualization requirements.
 Let's Connect
-- GitHub: @pateldivyakumar
-- LinkedIn: Divyakumar Patel
+- GitHub: [@pateldivyakumar](https://github.com/pateldivyakumar)
+- LinkedIn: [Divyakumar Patel](https://www.linkedin.com/in/divyakumar-sanjaykumar-patel-4231ba257/)
 <div align="center">
   <i>Building practical analytics solutions and continuously learning how to turn data into better decisions.</i>
 </div>
